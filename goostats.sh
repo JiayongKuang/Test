@@ -1,3 +1,4 @@
+hi bb
 # Load a given file
 echo "Welcome to Nelle's stats script"
 fname=$1
